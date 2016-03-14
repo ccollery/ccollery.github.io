@@ -1,0 +1,46 @@
+#container {
+	width: 600px
+	margin: 0 auto;
+	padding: 5px 5px 15px 5px;
+	background-color: rgb(220, 220, 220);
+}
+
+#nav {
+	background-color: black;
+	padding: 10px;
+	margin-top: 15px;
+	margin-bottom: 25px;	
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: center;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+.boxes{
+	padding: 10px;
+	margin-bottom:10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	background-color: rgb(255, 99, 71);
+	text-align: center
+}
+
+#bottom{
+	padding: none
+}
+
+#one {
+	color: blue;
+}
+
+#two{
+	color: green
+}
+
+#three{
+	color: yellow;
+}
