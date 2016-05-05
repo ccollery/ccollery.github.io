@@ -1,0 +1,122 @@
+/* HEADER STYLES */
+
+body {
+	margin: 0;
+}
+
+header {
+	background-color: black;
+	padding: 18px 15px;
+	border-bottom: yellow 5px solid;
+	overflow: auto;
+}
+
+h1 {
+	margin:0;
+	color: yellow;
+	float: left;
+	font-family: "source sans pro", serif;
+}
+
+nav {
+	float: right;
+	padding-top: 10px;
+}
+
+a {
+	font-family: "source sans pro";
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+	margin-left: 10px;
+}
+
+h2 {
+	padding: 20px 0 20px 0;
+	text-align: center;
+	background-color: #C6C6C6;
+	font-family: "Merriweather", serif;
+	font-style: italic;
+	margin: 0;
+}
+
+#taste {
+	text-decoration: line-through;
+	color: gray;
+}
+
+main {
+	height: 400px;
+	background-image: url("../img/coworking.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 100%;
+	padding: 20px 20px 20px 400px;
+	overflow: auto;
+}
+
+#meet {
+	width: 45%;
+	background-color: rgba(255, 255, 255, .75);
+	float: right;
+	padding: 40px;
+	min-width: 200px;
+}
+
+h3 {
+	font-family: "source sans pro";
+	font-weight: 700;
+	font-size: 35px;
+	margin: 0px;
+}
+
+p {
+	font-family: "source sans pro";
+	line-height: 1.6;
+}
+
+button {
+	width: 100%;
+	background-color: yellow;
+	font-family: "oswald";
+	font-weight: bold;
+	font-size: 20px;
+	text-transform: uppercase;
+	padding: 5px 50px 5px 50px;
+	box-shadow: inset 0 0px 0 rgba(0,0,0,.2);
+	border-radius: 5px;
+}
+
+section {
+	overflow: auto;
+}
+
+article {
+	padding: 0px 20px;
+	margin: 15px 0px;
+	width: 30%;
+	float:left;
+}
+
+h4 {
+	font-family: "Merriweather", serif;
+	font-size: 25px;
+}
+
+button.gray {
+	background-color: #D3D3D3;
+}
+
+#findadev {
+	border-left: #D3D3D3 solid 1px;
+	border-right: #D3D3D3 solid 1px;
+}
+
+footer {
+	color: white;
+	background-color: black;
+	padding: 18px 15px;
+	overflow: auto;
+}
+
+
